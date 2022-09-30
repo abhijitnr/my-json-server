@@ -1,0 +1,291 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "image": "https://www.kindmeal.my/photos/deal/7/724-5208-l.jpg",
+      "title": "BINGS",
+      "tags": "Banting",
+      "description": "Indulge in our perfectly decadent desserts of Bingsu, toasts, waffles and homemade pastries, and complement them with quality"
+    },
+    {
+      "id": 2,
+      "image": "https://www.kindmeal.my/photos/deal/7/716-5042-l.jpg",
+      "title": "Lolla Paluza",
+      "tags": "Petaling Jaya",
+      "description": "Chill out at our cozy hangout and indulge in our refreshing desserts and sweet treats! Enjoy any items from our menu"
+    },
+    {
+      "id": 3,
+      "image": "https://www.kindmeal.my/photos/deal/7/703-4854-l.jpg",
+      "title": "VietBeans Cafe",
+      "tags": "Tanjong Sepat",
+      "description": "Feast on authentic, delicious homecooked Vietnamese cuisine within a cozy environment. Don't miss out on our aromatic coffees"
+    },
+    {
+      "id": 4,
+      "image": "https://www.kindmeal.my/photos/deal/5/518-3788-l.jpg",
+      "title": "Yishensu",
+      "tags": "Petaling Jaya",
+      "description": "Yishensu offers a wide range of delicious oriental dishes, from traditional favorites to creative fusion delights."
+    },
+    {
+      "id": 5,
+      "image": "https://www.kindmeal.my/photos/deal/4/467-2796-l.jpg",
+      "title": "PCLO Cafe",
+      "tags": "Kuala Lumpur",
+      "description": "Think of Churros, think of PCLO Cafe! Each batch of eggless Churros is made with passion and from scratch in our kitchen."
+    },
+    {
+      "id": 6,
+      "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+      "title": "Dining Bowl",
+      "tags": "Kuala Lumpur",
+      "description": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients."
+    },
+    {
+      "id": 7,
+      "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+      "title": "The Black Cat Cafe",
+      "tags": "Kuala Lumpur",
+      "description": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love."
+    },
+    {
+      "id": 8,
+      "image": "https://www.kindmeal.my/photos/deal/1/177-1118-l.jpg",
+      "title": "A Pie Thing",
+      "tags": "Petaling Jaya",
+      "description": "When Pies conquer the world, you sit back, relax and have pies. Enjoy any delicious meat-free Savoury or Sweet Pies"
+    },
+    {
+      "id": 9,
+      "image": "https://www.kindmeal.my/photos/deal/6/682-4370-l.jpg",
+      "title": "Fulleaf Tea Store",
+      "tags": "Bandar Sunway",
+      "description": "Chill out with our ready-to-drink Cold Brew Teas! Invigorate yourself with our healthy, refreshing selection of Pure and Smooth"
+    },
+    {
+      "id": 10,
+      "image": "https://www.kindmeal.my/photos/deal/5/551-2642-l.jpg",
+      "title": "Jamaica Blue",
+      "tags": "Shah Alam",
+      "description": "Serving classic dishes with a contemporary twist, using the freshest and seasonal ingredients."
+    },
+    {
+      "id": 11,
+      "image": "https://www.kindmeal.my/photos/deal/6/679-4332-l.jpg",
+      "title": "Garden Cafe",
+      "tags": "Shah Alam",
+      "description": "Relax with your favorite Asian & Western comfort food, crafted with quality ingredients and a creative touch."
+    },
+    {
+      "id": 12,
+      "image": "https://www.kindmeal.my/photos/deal/7/706-4801-l.jpg",
+      "title": "Burger On 16",
+      "tags": "Petaling Jaya",
+      "description": "Our burger recipes range from traditional to special, for those seeking to discover outrageous burger tastes."
+    },
+    {
+      "id": 13,
+      "image": "https://www.kindmeal.my/photos/deal/7/700-4802-l.jpg",
+      "title": "Midas Cuisine",
+      "tags": "Banting",
+      "description": "Let our Midas touch transform your meal into a gastronomic adventure. Indulge in healthy and delicious Chinese cuisine"
+    },
+    {
+      "id": 14,
+      "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+      "title": "Juve Wellness Puchong",
+      "tags": "Puchong",
+      "description": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include"
+    },
+    {
+      "id": 15,
+      "image": "https://www.kindmeal.my/photos/deal/5/506-2350-l.jpg",
+      "title": "Ring Zhi Vegetarian",
+      "tags": "Kuala Lumpur",
+      "description": "This place brings back memories to those days where we would have such delicious authentic meals for festive eats."
+    },
+    {
+      "id": 16,
+      "image": "https://www.kindmeal.my/photos/deal/7/713-5140-l.jpg",
+      "title": "Vege Art",
+      "tags": "Johor Bahru",
+      "description": "Feast on our signature Korean & Chinese cuisine, as well as hotpot and Western meals! Our healthy food and soups are prepared"
+    },
+    {
+      "id": 17,
+      "image": "https://www.kindmeal.my/photos/deal/6/687-4507-l.jpg",
+      "title": "Alam N-Ion",
+      "tags": "Kuala Lumpur",
+      "description": "Serving you delicious home-cooked vegetarian meals, crafted with the healthiest ingredients and plenty of love."
+    },
+    {
+      "id": 18,
+      "image": "https://www.kindmeal.my/photos/deal/6/684-4446-l.jpg",
+      "title": "PC Studio Cafe",
+      "tags": "Petaling Jaya",
+      "description": "We indulge you in a delightful meat-free Western culinary experience within a cozy ambience, while also offering plant"
+    },
+    {
+      "id": 19,
+      "image": "https://www.kindmeal.my/photos/deal/5/574-3020-l.jpg",
+      "title": "Medal Mad Cafe",
+      "tags": "Kepong",
+      "description": "Enjoy a selection of Western cuisine, signature mocktails and desserts, especially their egg bubble waffle! Enjoy"
+    },
+    {
+      "id": 20,
+      "image": "https://www.kindmeal.my/photos/deal/3/369-3697-l.jpg",
+      "title": "Chequers",
+      "tags": "Taman Tun",
+      "description": "You'll only hear crisps and taste the soft centered waffles here, drizzled with their flavourful sauces in Chequers."
+    },
+    {
+      "id": 21,
+      "image": "https://www.kindmeal.my/photos/deal/7/711-4936-l.jpg",
+      "title": "Ahimsa",
+      "tags": "Beranang, Selangor",
+      "description": "Ahimsa's online store features an innovative series of food products unique in taste, nutrition and health."
+    },
+    {
+      "id": 22,
+      "image": "https://www.kindmeal.my/photos/deal/6/683-4718-l.jpg",
+      "title": "Red House 2",
+      "tags": "Cheras",
+      "description": "Indulge in creative, delicious meat-free cuisine within our cozy, home-style cafe! We only serve healthy Brown Rice"
+    },
+    {
+      "id": 23,
+      "image": "https://www.kindmeal.my/photos/deal/4/498-2202-l.jpg",
+      "title": "Imperial Art Cottage",
+      "tags": "Sri Petaling",
+      "description": "Dine like an emperor on a variety of Japanese and Western meals! Feast on delightful items from our selected menu."
+    },
+    {
+      "id": 24,
+      "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+      "title": "Cameleon Vegetarian",
+      "tags": "Kuala Lumpur",
+      "description": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment."
+    },
+    {
+      "id": 25,
+      "image": "https://www.kindmeal.my/photos/deal/6/692-4538-l.jpg",
+      "title": "Simply Good Food",
+      "tags": "Kuala Lumpur",
+      "description": "Simply Good Food delights you with our passion for authentic ingredients, honest cooking, and an enjoyable atmosphere."
+    },
+    {
+      "id": 26,
+      "image": "https://www.kindmeal.my/photos/deal/6/618-3514-l.jpg",
+      "title": "Vg Seventeen Cafe",
+      "tags": "Kuala Lumpur",
+      "description": "Let us pamper you with trendy, healthy and fascinating meals, prepared with fresh and natural ingredients! Enjoy"
+    },
+    {
+      "id": 27,
+      "image": "https://www.kindmeal.my/photos/deal/6/644-3810-l.jpg",
+      "title": "Piccolo Cafe",
+      "tags": "Seri Kembangan",
+      "description": "Enjoy delicious, wholesome Western cuisine at our cozy, relaxing cafe while we serenade you with our artsy ambiance"
+    },
+    {
+      "id": 28,
+      "image": "https://www.kindmeal.my/photos/deal/6/696-5075-l.jpg",
+      "title": "Alice Kitchen",
+      "tags": "Petaling Jaya",
+      "description": "Alice Kitchen delights you with fusion vegetarian and vegan gourmet cuisine, with an innovative gastronomic"
+    },
+    {
+      "id": 29,
+      "image": "https://www.kindmeal.my/photos/deal/7/719-5142-l.jpg",
+      "title": "Taiping Vegetarian",
+      "tags": "Sungai Buloh",
+      "description": "Relish in tasty, nutritious oriental & western delicacies amidst our peaceful, cozy environment."
+    },
+    {
+      "id": 30,
+      "image": "https://www.kindmeal.my/photos/deal/6/634-3683-l.jpg",
+      "title": "Veggielicious",
+      "tags": "Petaling Jaya",
+      "description": "Indulge in a wide array of authentic Thai vegan dishes within a cozy environment! Deliciously crafted"
+    },
+    {
+      "id": 31,
+      "image": "https://www.kindmeal.my/photos/deal/6/614-3355-l.jpg",
+      "title": "Elyn Vegetarian",
+      "tags": "Puchong",
+      "description": "As our restaurant's name implies, we bring you memorable vegetarian cuisines that are both a beauty of taste and visual appeal."
+    },
+    {
+      "id": 32,
+      "image": "https://www.kindmeal.my/photos/deal/6/681-4353-l.jpg",
+      "title": "Berjaya Cafe",
+      "tags": "Kuala Lumpur",
+      "description": "Berjaya Cafe delights you with opulence, style and taste from the best chefs in town."
+    },
+    {
+      "id": 33,
+      "image": "https://www.kindmeal.my/photos/deal/6/686-4475-l.jpg",
+      "title": "Figure Out Cafe",
+      "tags": "Selangor",
+      "description": "Let us Figure Out the most delicious blend of Asian flavors, pampering you within a relaxing atmosphere! Enjoy"
+    },
+    {
+      "id": 34,
+      "image": "https://www.kindmeal.my/photos/deal/6/605-3316-l.jpg",
+      "title": "Hyderabad Recipes",
+      "tags": "Kuala Lumpur",
+      "description": "Indulge yourself in the best Hyderabadi cuisine, including the 'World's Favourite Biryani'! Select from any meat"
+    },
+    {
+      "id": 35,
+      "image": "https://www.kindmeal.my/photos/deal/6/670-4180-l.jpg",
+      "title": "Rasa Viet",
+      "tags": "Kuala Lumpur",
+      "description": "Indulge in a truly authentic Vietnamese experience with delicious recipes, beautiful furnishings, lush greens"
+    },
+    {
+      "id": 36,
+      "image": "https://www.kindmeal.my/photos/deal/5/590-3137-l.jpg",
+      "title": "Rawsome",
+      "tags": "Sungai Buloh",
+      "description": "Enjoy healthy, guilt-free, raw food meals artfully crafted for a nutritious and delicious experience."
+    },
+    {
+      "id": 37,
+      "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+      "title": "Yishensu Groceries Ipoh",
+      "tags": "Ipoh, Perak",
+      "description": "Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! "
+    },
+    {
+      "id": 38,
+      "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+      "title": "Ssihat Kafe",
+      "tags": "Melaka",
+      "description": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe."
+    },
+    {
+      "id": 39,
+      "image": "https://www.kindmeal.my/photos/deal/6/671-4245-l.jpg",
+      "title": "Er Lou Cafe",
+      "tags": "Petaling Jaya",
+      "description": "Indulge yourself in Sarawak heritage cuisine, featuring Er Lou's house-rolled smooth noodles with a choice of thick"
+    },
+    {
+      "id": 40,
+      "image": "https://www.kindmeal.my/photos/deal/7/715-5155-l.jpg",
+      "title": "Eat21",
+      "tags": "Petaling Jaya",
+      "description": "Currently for Takeaway & Delivery only. Feast on our signature plant-based meals, crafted with heart to provide you"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Hello",
+      "status": false
+    }
+  ]
+}
